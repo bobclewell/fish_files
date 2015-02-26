@@ -12,8 +12,11 @@ alias her="cd ~/src/herrington"
 alias wl="cd ~/src/weblinc"
 alias wl03="cd ~/src/weblinc_0-3-7"
 alias wl05="cd ~/src/weblinc_0-5"
-alias wld="cd ~/src/weblinc-dummy-app"
+alias wld="cd ~/src/dummy-app"
 
 # Config Shortcuts
 alias snips="cd /Users/bclewell/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/"
 alias fish="cd ~/.config/fish/"
+
+# Searching Rails Logs
+alias applog="powder applog | grep >>>>>"
