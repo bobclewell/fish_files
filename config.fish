@@ -14,7 +14,7 @@ alias fam="cd ~/src/fambrands"
 alias wl="cd ~/src/weblinc"
 alias wl03="cd ~/src/weblinc_0-3-7"
 alias wl04="cd ~/src/weblinc_0-4"
-alias wl05="cd ~/src/weblinc_0-5"
+alias wl05="cd ~/src/weblinc_0-5-13"
 alias wld="cd ~/src/dummy-app"
 
 # Config Shortcuts
