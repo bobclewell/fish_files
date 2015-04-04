@@ -10,6 +10,9 @@ alias her="cd ~/src/herrington"
 alias sg="cd ~/src/sgangster"
 alias fam="cd ~/src/fambrands"
 
+# Bob's Sites
+alias pick="cd ~/bob/pickem"
+
 # WebLinc Cores and Internal Sites
 alias wl="cd ~/src/weblinc"
 alias wl03="cd ~/src/weblinc_0-3-7"
