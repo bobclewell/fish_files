@@ -9,6 +9,7 @@ alias mj="cd ~/src/mintjulep"
 alias her="cd ~/src/herrington"
 alias sg="cd ~/src/sgangster"
 alias fam="cd ~/src/fambrands"
+alias dib="cd ~/src/doitbest"
 
 # Bob's Sites
 alias pick="cd ~/bob/pickem"
