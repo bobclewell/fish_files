@@ -1,0 +1,40 @@
+# Command Shortcuts
+alias be="bundle exec"
+alias del="rmtrash"
+
+# WebLinc Customer Sites
+alias dib="cd ~/src/doitbest"
+alias fam="cd ~/src/fambrands"
+alias her="cd ~/src/herrington"
+alias hobo="cd ~/src/hobo"
+alias miss="cd ~/src/miss-me"
+alias mj="cd ~/src/mintjulep"
+alias sg="cd ~/src/sgangster"
+alias uspolo="cd ~/src/uspolo"
+
+# Bob's Sites
+alias pick="cd ~/bob/pickem"
+
+# WebLinc Cores and Internal Sites
+alias wl="cd ~/src/weblinc"
+alias wl03="cd ~/src/weblinc_0-3-7"
+alias wl04="cd ~/src/weblinc_0-4"
+alias wl05="cd ~/src/weblinc_0-5-13"
+alias wld="cd ~/src/dummy-app"
+alias wlb="cd ~/src/weblinc-blog"
+alias api="cd ~/src/weblinc-api"
+
+# Config Shortcuts
+alias snips="cd /Users/bclewell/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/"
+# alias fish="cd ~/.config/fish/"
+
+# Searching Rails Logs
+# alias applog="powder applog | grep BOBBOT"
+
+# Alias for the fuck
+function fuck
+    eval (thefuck $history[1])
+end
+
+# For autojump
+[ -f /usr/local/share/autojump/autojump.fish ]; and . /usr/local/share/autojump/autojump.fish
